@@ -10,3 +10,5 @@ console.log(booksLen);
 // elem index
 const booksIndex = books[2];
 console.log(booksIndex);
+// elem replace
+books[3] = 'recharge your down battery';
